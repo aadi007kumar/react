@@ -5,6 +5,7 @@ const ProductCard = (props) => {
         <p>{props.name}</p>
         <p>{props.price}</p>
         <p>{props.brand}</p>
+        <h1> I am a new product</h1>
     </div>
   )
 }
