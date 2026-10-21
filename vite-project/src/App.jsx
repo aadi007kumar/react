@@ -19,6 +19,11 @@ const App = () => {
       price="1228899"
       brand="Samsung"
        />
+      <ProductCard
+      name="S27"
+      price="1228899"
+      brand="Samsung"
+       />
     </div>
   )
 }

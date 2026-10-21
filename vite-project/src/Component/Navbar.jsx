@@ -9,6 +9,7 @@ function Navbar(){
                 <a href="#">Products</a>
                 <a href="#">About</a>
                 <a href="#">Contacts</a>
+                <a href="#">Contacts2</a>
             </div>
             <button className="cart-buton">Cart</button>
         </nav>
